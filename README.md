@@ -1,3 +1,3 @@
-<h1>Welcome to Camera Object Detection (COD) APK app!</h1>
+<h1>Welcome to Camera Object Detector(COD) APK app!</h1>
 <p>This project, nestled within the vibrant Android Studio environment and the robust CameraX repository, brings cutting-edge TensorFlow Lite (.tflite) technology to your fingertips. Harnessing the power of AI, our app seamlessly integrates real-time object detection capabilities into your camera experience. Explore the future of mobile vision with COD, where every frame is an opportunity for discovery and innovation.</p>
 <p>Join us on <a href="https://github.com/IsuruHet/COD">GitHub</a> and be part of the AI revolution in Android development!</p>
